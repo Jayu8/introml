@@ -1,4 +1,4 @@
-# Introduction to Machine Learning in Python
+# Introduction to Machine Learning in Python 3
 
 This repository provides instructional material for 
 machine learning in python.  The material is used for two classes taught at NYU Tandon
